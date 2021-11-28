@@ -2,7 +2,7 @@
 版型與學習資源出自 [udemy](https://www.udemy.com/) 課程 [Safak Kocaoglu](https://www.udemy.com/user/safak-kocaoglu-3/) 的 [HTML, CSS and JavaScript for Intermediate - Movie Website](https://www.udemy.com/course/html-css-and-javascript-for-intermediate/learn/lecture/25208628#overview)，
 僅作學習用途。
 
-# [Github Pages](https://joyun25.github.io/movie-website/)
+### [Github Pages](https://joyun25.github.io/movie-website/)
 ![](https://i.imgur.com/KIuWaV6.jpg)
 ![](https://i.imgur.com/eUbmFpi.jpg)
 
